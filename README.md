@@ -1,6 +1,6 @@
 # Web3
 
-This repository contains code examples from the video series [Web3.js · Ethereum Blockchain Developer Crash Course](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN).
+This repository contains code examples from the video series [Web3.js · Ethereum Blockchain Developer Crash Course](https://www.youtube.com/playlist?list=PLS5SEs8ZftgXlCGXNfzKdq7nGBcIaVOdN). It helps you in interacting with ethereum blockchain using Web3.js library.
 
 ### How to run?
 
